@@ -1,2 +1,3 @@
 Individuos e interacciones sobre procesos y herramientas
 Colaboracion con el cliente sobre negociacion contractual
+Software funcionando sobre documentación extensiva
